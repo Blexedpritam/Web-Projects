@@ -98,7 +98,6 @@ a{
 .card_container:hover .card_image{
     transform: scale(1.2);
     transition-duration: 200ms;
-
 }
 .card_title{
     font-size: 1rem;
