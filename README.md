@@ -16,4 +16,4 @@
 ![Second Card](second-card-project.png.jpeg)
 
 ## 📝 Blog Project
-![Blog Project](Blog-project.png.jpeg)
+![Blog Project](blog-project.png.jpeg)
