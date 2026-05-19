@@ -14,3 +14,6 @@
 ### 🃏 Card Projects
 ![First Card](first-card-project.png.jpeg)
 ![Second Card](second-card-project.png.jpeg)
+
+## 📝 Blog Project
+![Blog Project](blog-project.png.jpeg)
