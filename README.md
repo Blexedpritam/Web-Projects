@@ -1,19 +1,20 @@
+# 🌐 Web Projects — Pritam Kumar
+
+> Aspiring MERN Stack Developer | Learning in Public 🚀
 ---
 
-## 🖼️ Project Screenshots
+## 🚀 Live Projects
 
-### 🍽️ Recipe Project
-![Recipe Project](recipe-project.png.jpeg)
+| Project | Live Demo |
+|---------|-----------|
+| 📝 Blog Project | [Live](https://blexedpritam.github.io/Web-Projects/Blog%20Project/) |
+| 🎓 StudySync | [Live](https://blexedpritam.github.io/Web-Projects/StudySync%20Project/) |
+| 🍽️ Recipe Project | [Live](https://blexedpritam.github.io/Web-Projects/Recipe%20Project/) |
+| 💼 Job Portal | [Live](https://blexedpritam.github.io/Web-Projects/project%200/) |
+| 🛍️ Product Catalog | [Live](https://blexedpritam.github.io/Web-Projects/project%201/) |
+| 🃏 First Card | [Live](https://blexedpritam.github.io/Web-Projects/project%202/) |
+| 🃏 Second Card | [Live](https://blexedpritam.github.io/Web-Projects/project%203/) |
 
-### 💼 Job Portal
-![Job Portal](job-portal-project.png.jpeg)
+---
 
-### 🛍️ Product Catalog
-![Product Catalog](product-catalog-project.png.jpeg)
-
-### 🃏 Card Projects
-![First Card](first-card-project.png.jpeg)
-![Second Card](second-card-project.png.jpeg)
-
-## 📝 Blog Project
-![Blog Project](blog-project.png.jpeg)
+📫 [LinkedIn](https://linkedin.com/in/pritam-kumar-419915407) | 🐙 [GitHub](https://github.com/Blexedpritam)
