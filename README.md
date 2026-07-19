@@ -10,13 +10,14 @@
 |---|---------|-----------|
 | 1 | 📝 Blog Project | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/Blog%20Project/) |
 | 2 | 🎓 StudySync | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/StudySync%20Project/) |
-| 3 | 🍽️ Recipe Project | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/Recipe%20Project/) |
-| 4 | 🛍️ Product Catalog | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/project%202/) |
-| 5 | 💼 Job Portal | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/project%201/project1.html) |
-| 6 | 🎵 Media Project | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/project%203/media.html) |
-| 7 | 🃏 First Card | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/project%205/first_card.html) |
-| 8 | 🃏 Second Card | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/project%205/second_card.html) |
-| 9 | 🃏 Third Card | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/project%205/third_card.html) |
+| 3 | ⌛ Countdown Timer | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/CountDownTimer%20Project/) |
+| 4 | 🍽️ Recipe Project | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/Recipe%20Project/) |
+| 5 | 🛍️ Product Catalog | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/project%202/) |
+| 6 | 💼 Job Portal | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/project%201/project1.html) |
+| 7 | 🎵 Media Project | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/project%203/media.html) |
+| 8 | 🃏 First Card | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/project%205/first_card.html) |
+| 9 | 🃏 Second Card | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/project%205/second_card.html) |
+| 10 | 🃏 Third Card | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/project%205/third_card.html) |
 
 ---
 
