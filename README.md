@@ -10,7 +10,7 @@
 |---|---------|-----------|
 | 1 | 📝 Blog Project | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/Blog%20Project/) |
 | 2 | 🎓 StudySync | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/StudySync%20Project/) |
-| 3 | ⌛ Countdown Timer | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/CountDownTimer%20Project/) |
+| 3 | ⌛ Countdown Timer | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/CountDownTimer) |
 | 4 | 🍽️ Recipe Project | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/Recipe%20Project/) |
 | 5 | 🛍️ Product Catalog | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/project%202/) |
 | 6 | 💼 Job Portal | [🔗 View Live](https://blexedpritam.github.io/Web-Projects/project%201/project1.html) |
