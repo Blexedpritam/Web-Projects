@@ -20,6 +20,7 @@ A collection of front-end mini-projects built while learning HTML, CSS, and Java
 | 8 | 🎵 Media Project | Media/audio-visual UI practice | [View Live](https://blexedpritam.github.io/Web-Projects/project%203/media.html) |
 | 9 | 🃏 Card Practice (1–3) | DOM & event handling practice | [Card 1](https://blexedpritam.github.io/Web-Projects/project%205/first_card.html) · [Card 2](https://blexedpritam.github.io/Web-Projects/project%205/second_card.html) · [Card 3](https://blexedpritam.github.io/Web-Projects/project%205/third_card.html) |
 | 10 | 🔧 Project 0 | *Add short description* | [View Live](https://blexedpritam.github.io/Web-Projects/project%200/) |
+| 11 | ✅ To Do List | Task manager with add/delete/complete | [View Live](https://blexedpritam.github.io/Web-Projects/To%20Do%20list/) |
 
 > 📌 **Note:** `LeetMetric` folder is visible locally but not yet pushed to GitHub — push it and I'll add it to this table with a live link.
 
