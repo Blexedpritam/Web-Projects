@@ -26,9 +26,8 @@ Below the projects are grouped by the front-end technologies they include and li
 
 4. ✅ To Do List — [Live Demo](https://blexedpritam.github.io/Web-Projects/To%20Do%20list/)
    - Folder: `To Do list`
-   - Files: `index.html`, `script.js`, `style..css`  
-   - Note: CSS filename is `style..css` (two dots) — keep as-is or rename to `style.css` if you want the standard name.
-
+   - Files: `index.html`, `script.js`, `style.css`  
+   
 ---
 
 ### HTML • CSS (projects with separate style.css, no separate script.js found)
