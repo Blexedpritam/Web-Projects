@@ -6,22 +6,79 @@ A collection of front-end mini-projects built while learning HTML, CSS, and Java
 
 ---
 
-## 🚀 Live Projects
+## 🚀 Live Projects (ordered by repository upload/list)
 
-| # | Project | Description | Live Demo |
-|---|---|---|---|
-| 1 | 📝 Blog Project | Responsive blog layout using CSS Grid | [View Live](https://blexedpritam.github.io/Web-Projects/Blog%20Project/) |
-| 2 | 🎓 StudySync | Study planner / productivity tool | [View Live](https://blexedpritam.github.io/Web-Projects/StudySync%20Project/) |
-| 3 | ⌛ Countdown Timer | JS-based countdown timer | [View Live](https://blexedpritam.github.io/Web-Projects/CountDownTimer/) |
-| 4 | 🍽️ Recipe Project | Recipe website with styled UI | [View Live](https://blexedpritam.github.io/Web-Projects/Recipe%20Project/) |
-| 5 | ☁️ Weather | Weather lookup app | [View Live](https://blexedpritam.github.io/Web-Projects/Weather/) |
-| 6 | 🛍️ Product Catalog | E-commerce style product listing | [View Live](https://blexedpritam.github.io/Web-Projects/project%202/) |
-| 7 | 💼 Job Portal | Job listing frontend | [View Live](https://blexedpritam.github.io/Web-Projects/project%201/project1.html) |
-| 8 | 🎵 Media Project | Media/audio-visual UI practice | [View Live](https://blexedpritam.github.io/Web-Projects/project%203/media.html) |
-| 9 | 🃏 Card Practice (1–3) | DOM & event handling practice | [Card 1](https://blexedpritam.github.io/Web-Projects/project%205/first_card.html) · [Card 2](https://blexedpritam.github.io/Web-Projects/project%205/second_card.html) · [Card 3](https://blexedpritam.github.io/Web-Projects/project%205/third_card.html) |
-| 10 | 🔧 Project 0 | *Add short description* | [View Live](https://blexedpritam.github.io/Web-Projects/project%200/) |
+Below the projects are grouped by the front-end technologies they include and listed in the repository upload order.
 
-> 📌 **Note:** `LeetMetric` folder is visible locally but not yet pushed to GitHub — push it and I'll add it to this table with a live link.
+### HTML • CSS • JS (projects with separate script.js and style.css)
+
+1. ⌛ Countdown Timer — [Live Demo](https://blexedpritam.github.io/Web-Projects/CountDownTimer/)
+   - Folder: `CountDownTimer`
+   - Files: `index.html`, `style.css`, `script.js`
+
+2. 🔐 Random Password — [Live Demo](https://blexedpritam.github.io/Web-Projects/Random%20Password/)
+   - Folder: `Random Password`
+   - Files: `index.html`, `style.css`, `script.js`, `Images/`
+
+3. ☁️ Weather — [Live Demo](https://blexedpritam.github.io/Web-Projects/Weather/)
+   - Folder: `Weather`
+   - Files: `index.html`, `style.css`, `script.js`, `images/`
+
+4. ✅ To Do List — [Live Demo](https://blexedpritam.github.io/Web-Projects/To%20Do%20list/)
+   - Folder: `To Do list`
+   - Files: `index.html`, `script.js`, `style..css`  
+   - Note: CSS filename is `style..css` (two dots) — keep as-is or rename to `style.css` if you want the standard name.
+
+---
+
+### HTML • CSS (projects with separate style.css, no separate script.js found)
+
+1. 📝 Blog Project — [Live Demo](https://blexedpritam.github.io/Web-Projects/Blog%20Project/)
+   - Folder: `Blog Project`
+   - Files: `index.html`, `style.css`, images/
+
+2. 🍽️ Recipe Project — [Live Demo](https://blexedpritam.github.io/Web-Projects/Recipe%20Project/)
+   - Folder: `Recipe Project`
+   - Files: `index.html`, `style.css`, images (barfi.jpg, gulab.jpg)
+
+3. 🎓 StudySync — [Live Demo](https://blexedpritam.github.io/Web-Projects/StudySync%20Project/)
+   - Folder: `StudySync Project`
+   - Files: `index.html`, `style.css`, studysync-images/
+
+---
+
+### HTML only (projects with standalone HTML pages / media)
+
+1. 🔧 Project 0 — [Live Demo](https://blexedpritam.github.io/Web-Projects/project%200/)
+   - Folder: `project 0`
+   - Files: `index.html`
+
+2. 💼 Job Portal (project 1) — [Live Demo](https://blexedpritam.github.io/Web-Projects/project%201/project1.html)
+   - Folder: `project 1`
+   - Files: `project1.html`, images (large JPG)
+
+3. 🛍️ Product Catalog (project 2) — [Live Demo](https://blexedpritam.github.io/Web-Projects/project%202/)
+   - Folder: `project 2`
+   - Files: `index.html`, images (download.jpg, images.jpg, jeans.jpg, lamp.jpg)
+
+4. 🎵 Media Project (project 3) — [Live Demo](https://blexedpritam.github.io/Web-Projects/project%203/media.html)
+   - Folder: `project 3`
+   - Files: `media.html`, `a1.mp3`, `v1.mp4`, `img 3.jpg`
+
+5. 🃏 Card Practice (project 5) — [Live Demo — Card 1](https://blexedpritam.github.io/Web-Projects/project%205/first_card.html)
+   - Folder: `project 5`
+   - Files: `first_card.html`, `second_card.html`, `third_card.html`, `design1.jpg`, `music1.jpg`, `fakeqr.png`
+   - Live links: Card 1 · Card 2 · Card 3
+     - Card 1: https://blexedpritam.github.io/Web-Projects/project%205/first_card.html
+     - Card 2: https://blexedpritam.github.io/Web-Projects/project%205/second_card.html
+     - Card 3: https://blexedpritam.github.io/Web-Projects/project%205/third_card.html
+
+---
+
+> 📌 Notes:
+> - I ordered the README projects to match the repository upload/list order and grouped them by the detected tech in each folder (based on presence of `style.css` and `script.js`).
+> - If you prefer a strictly chronological order (by commit date), I can rerun a commit-history check and order by first commit that introduced each folder.
+> - Would you like me to also fix the `style..css` filename in `To Do list` and update any HTML references so the live link keeps working? I can rename the file and update references in one commit.
 
 ---
 
@@ -36,7 +93,7 @@ A collection of front-end mini-projects built while learning HTML, CSS, and Java
 
 ## 📂 Structure
 
-Each folder is an independent, self-contained project — open its `index.html` directly or view it live via the table above.
+Each folder is an independent, self-contained project — open its `index.html` (or the specific HTML file) directly or view it live via the table/links above.
 
 ---
 
