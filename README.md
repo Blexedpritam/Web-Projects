@@ -74,10 +74,7 @@ Below the projects are grouped by the front-end technologies they include and li
 
 ---
 
-> 📌 Notes:
-> - I ordered the README projects to match the repository upload/list order and grouped them by the detected tech in each folder (based on presence of `style.css` and `script.js`).
-> - If you prefer a strictly chronological order (by commit date), I can rerun a commit-history check and order by first commit that introduced each folder.
-> - Would you like me to also fix the `style..css` filename in `To Do list` and update any HTML references so the live link keeps working? I can rename the file and update references in one commit.
+
 
 ---
 
