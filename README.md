@@ -28,6 +28,10 @@ Below the projects are grouped by the front-end technologies they include and li
    - Folder: `To Do list`
    - Files: `index.html`, `script.js`, `style.css`  
    
+5. 💈 Barbar — [Live Demo](https://blexedpritam.github.io/Web-Projects/Barbar/)
+   - Folder: `Barbar`
+   - Files: `index.html`, `style.css`, `script.js`, `Images/`
+   
 ---
 
 ### HTML • CSS (projects with separate style.css, no separate script.js found)
