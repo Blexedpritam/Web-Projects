@@ -20,3 +20,9 @@ var scroll = new SmoothScroll('a[href*="#"]', {
 	speed: 1000,
 	speedAsDuration: true
 });
+
+
+var loader = document.getElementById("preloader");
+window.addEventListener("load" , function(){
+    loader.style.display = "none";
+})
