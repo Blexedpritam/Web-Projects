@@ -151,25 +151,6 @@ This is important because it gives the user a way to contact the business.
 
 ---
 
-## How to Run This Project
-
-Since this is a static website, you can run it in two easy ways:
-
-### Option 1: Open directly in browser
-1. Go to the project folder.
-2. Open `index.html` in your browser.
-3. The website will load and display properly.
-
-### Option 2: Use a local live server
-If you are using VS Code:
-
-1. Open the project folder in VS Code.
-2. Install a live preview or live server extension.
-3. Open `index.html` with the extension.
-4. The page will reload automatically when changes are made.
-
----
-
 ## Important JavaScript Logic Explained
 
 Here is the main logic behind the interactive parts:
