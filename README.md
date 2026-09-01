@@ -31,6 +31,10 @@ Below the projects are grouped by the front-end technologies they include and li
 5. 💈 Barbar — [Live Demo](https://blexedpritam.github.io/Web-Projects/Barbar/)
    - Folder: `Barbar`
    - Files: `index.html`, `style.css`, `script.js`, `Images/`
+
+6. 🌙 Dark Theme — [Live Demo](https://blexedpritam.github.io/Web-Projects/Dark%20Theme/)
+   - Folder: `Dark Theme`
+   - Files: `index.html`, `style.css`, `script.js`, `image/`, `portfolio_site_img/`
    
 ---
 
